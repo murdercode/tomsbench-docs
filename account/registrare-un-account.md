@@ -4,7 +4,7 @@
 
 Per prima cosa è necessario **registrare un account** al seguente indirizzo: [https://bench.tomshw.it/register](https://bench.tomshw.it/register)
 
-{% hint style="warning" %}
+{% hint style="info" %}
  Non è possibile utilizzare l'account del forum per effettuare l'accesso. È necessario creare un nuovo account.
 {% endhint %}
 
