@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Tom's Bench](README.md)
-* [Changelog](untitled-1.md)
 
 ## Account
 
