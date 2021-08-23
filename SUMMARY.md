@@ -7,12 +7,13 @@
 * [Registrare un account](account/registrare-un-account.md)
 * [Invitation Code](account/invitation-code.md)
 * [Livelli Account](account/livelli-account.md)
+* [Preferiti](account/preferiti.md)
 
 ## Prodotti
 
-* [Prodotti](prodotti/prodotti.md)
 * [Categorie](prodotti/categorie.md)
-* [Brand](prodotti/brand.md)
+* [Brand](prodotti/brand/README.md)
+  * [Prodotti](prodotti/brand/prodotti.md)
 
 ## Shop
 
@@ -22,5 +23,6 @@
 
 ## Voti e Recensioni
 
-* [Untitled](voti-e-recensioni/untitled.md)
+* [Voti](voti-e-recensioni/untitled.md)
+* [Recensioni](voti-e-recensioni/recensioni.md)
 

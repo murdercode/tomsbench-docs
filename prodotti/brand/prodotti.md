@@ -16,5 +16,7 @@ Dall'interno della categoria in cui lo si vuole creare, si clicca su **Proponi N
 
 ## Modificare un Prodotto
 
-TO DO
+Come utente verificato puoi proporre la modifica di qualunque prodotto presente nella piattaforma.
+
+Ogni proposta di modifica contribuirà ad assegnarti dei punti attività.
 

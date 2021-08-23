@@ -3,7 +3,7 @@
 ## Come ottenere un Invitation Code
 
 {% hint style="info" %}
-L'Invitation Code è **necessario solo per la fase Closed Beta** e sarà eliminato al raggiungimento della fase Final Release.
+L'Invitation Code è **necessario solo per la fase Closed Beta** e sarà rimosso al raggiungimento della fase Final Release.
 {% endhint %}
 
 L'Invitation Code è una sequenza di caratteri alfanumerici, necessario per la registrazione nella piattaforma.
