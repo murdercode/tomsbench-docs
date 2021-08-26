@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Tom's Bench](README.md)
+* [Cos'è la Closed Beta?](cose-la-closed-beta.md)
 * [Serve aiuto?](serve-aiuto.md)
 
 ## Account
